@@ -1,0 +1,7 @@
+C:\Users\Ondřej\Desktop\advent od code 2018\Day10\Day10\bin\Debug\Day10.exe.config
+C:\Users\Ondřej\Desktop\advent od code 2018\Day10\Day10\bin\Debug\Day10.exe
+C:\Users\Ondřej\Desktop\advent od code 2018\Day10\Day10\bin\Debug\Day10.pdb
+C:\Users\Ondřej\Desktop\advent od code 2018\Day10\Day10\obj\Debug\Day10.csprojAssemblyReference.cache
+C:\Users\Ondřej\Desktop\advent od code 2018\Day10\Day10\obj\Debug\Day10.csproj.CoreCompileInputs.cache
+C:\Users\Ondřej\Desktop\advent od code 2018\Day10\Day10\obj\Debug\Day10.exe
+C:\Users\Ondřej\Desktop\advent od code 2018\Day10\Day10\obj\Debug\Day10.pdb
