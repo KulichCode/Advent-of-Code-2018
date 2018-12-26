@@ -1,0 +1,7 @@
+C:\Users\Ondřej\Desktop\advent od code\Day8\Day8\bin\Debug\Day8.exe.config
+C:\Users\Ondřej\Desktop\advent od code\Day8\Day8\bin\Debug\Day8.exe
+C:\Users\Ondřej\Desktop\advent od code\Day8\Day8\bin\Debug\Day8.pdb
+C:\Users\Ondřej\Desktop\advent od code\Day8\Day8\obj\Debug\Day8.csprojAssemblyReference.cache
+C:\Users\Ondřej\Desktop\advent od code\Day8\Day8\obj\Debug\Day8.csproj.CoreCompileInputs.cache
+C:\Users\Ondřej\Desktop\advent od code\Day8\Day8\obj\Debug\Day8.exe
+C:\Users\Ondřej\Desktop\advent od code\Day8\Day8\obj\Debug\Day8.pdb
